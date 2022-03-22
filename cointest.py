@@ -1,6 +1,8 @@
 import requests
 import matplotlib.pyplot as plt
 
+#this didn't work nearly as well as I'd hoped
+
 def unix_to_regular(seconds):
     minutes = int(seconds / 60)
     seconds %= 60
