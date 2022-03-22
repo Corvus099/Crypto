@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
+#it might not look like much but this does a lot
 
 train = pd.read_csv("trainingData.csv")
 print(train.head())
