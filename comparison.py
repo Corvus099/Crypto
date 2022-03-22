@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 from pyparsing import replaceHTMLEntity
 
+# shows a graphical comparison of the model's output data and the real data
+
 realX = []
 realY = []
 
