@@ -92,3 +92,4 @@ with open("trainingData.csv", 'w') as data:
                     #print(response)
 print("all done")
 
+
