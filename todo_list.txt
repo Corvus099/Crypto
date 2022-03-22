@@ -1,0 +1,12 @@
+ - Learn to convert from unix time to regular time
+ - Learn how python does date and time
+ - Learn how python consumes .json
+ - Create a formal hypothesis for buying and selling decisions
+ - Make a program to fetch this data, loop and read it, and test a bot's capability to buy and sell
+
+
+ - Gather the training data: Done
+ - Read the data into a machine learning model
+ - Gather testing data
+ - Use it to predict the results of future crypto endeavors
+ - Test the correctness of the model
